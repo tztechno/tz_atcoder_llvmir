@@ -1,4 +1,5 @@
 //kangping 
+//atcoder|beginner|contest
 
 @str.inputA = private unnamed_addr constant [3 x i8] c"%d\00",align 1
 @str.Bat = private unnamed_addr constant [5 x i8] c"Bat\0a\00",align 1
